@@ -17,6 +17,8 @@ Step 3: Run the apache and mysql on XAMPP app. So it will run smoothly.
 
 #### Adding new user to the database
 
+This when I add a new user name called Jack Star. See the photos below.
+
 <img width="939" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/78eb28d3-1fab-449c-a094-2a87150ee0cb">
 
 <img width="959" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/3b348a14-fa44-43bd-bdbd-03d4d062126c">
