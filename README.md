@@ -25,6 +25,8 @@ This when I add a new user name called Jack Star. See the photos below.
 
 #### View the user
 
+If you click the view button here you can see that the selected user will show on different pages. See the photo below.
+
 <img width="956" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/31f36669-5bd8-495f-9c5d-8467d0f211cf">
 
 #### Edit user 
