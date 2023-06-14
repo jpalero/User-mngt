@@ -10,3 +10,7 @@ Step 2: In SQL script paste this.
 CREATE TABLE `user-mngt`.`user` (`Id` INT NOT NULL AUTO_INCREMENT , `First_name` VARCHAR(100) NOT NULL , `Last_name` INT(45) NOT NULL , `Email` VARCHAR(45) NOT NULL , `Phone` VARCHAR(45) NOT NULL , `Address` VARCHAR(45) NOT NULL , `Comments` TEXT NOT NULL , `Status` VARCHAR(10) NOT NULL DEFAULT 'active' , PRIMARY KEY (`Id`)) ENGINE = InnoDB;
 
 Step 3: Run the apache and mysql on XAMPP app. So it will run smoothly.
+
+## Here a overiview of the project.
+
+<img width="960" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/551f17c5-50a9-4d36-96eb-a4ed0f318352">
