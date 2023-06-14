@@ -1,0 +1,1 @@
+CREATE TABLE `shipment`.`user` (`Id` INT NOT NULL AUTO_INCREMENT , `First_name` VARCHAR(100) NOT NULL , `Last_name` INT(45) NOT NULL , `Email` VARCHAR(45) NOT NULL , `Phone` VARCHAR(45) NOT NULL , `Address` VARCHAR(45) NOT NULL , `Comments` TEXT NOT NULL , `Status` VARCHAR(10) NOT NULL DEFAULT 'active' , PRIMARY KEY (`Id`)) ENGINE = InnoDB;
