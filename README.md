@@ -13,6 +13,8 @@ Step 3: Run the apache and mysql on XAMPP app. So it will run smoothly.
 
 ## Here a overiview of the project.
 
+You can also search the name of our user on the search input. By typing the letter or name of user.
+
 <img width="960" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/551f17c5-50a9-4d36-96eb-a4ed0f318352">
 
 #### Adding new user to the database
@@ -31,15 +33,23 @@ If you click the view button here you can see that the selected user will show o
 
 #### Edit user 
 
+When editing a user it also show you the current information inside of our user info. Here you can modify it whatever you want it.
+
 <img width="947" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/4b36f744-dfd4-4eaa-bc25-e86d9f59d04b">
 
 #### Deleting user 
 
+This time we will now deleting a user from our database. It will show you before deleting the user.
+
 <img width="958" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/281c0275-3ae1-44f5-ad16-82e63235d0ee">
+
+Here you can see that the selected user is now deleted.
 
 <img width="959" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/cf5f199d-a473-4d64-af35-70ec123396fc">
 
 #### Inside the database
+
+This is overview what is inside of our database. Table column use on our project CRUD operation.
 
 <img width="662" alt="image" src="https://github.com/jpalero/User-mngt/assets/131837340/231dc3e4-6d46-4019-84f8-8d6840b1b451">
 
