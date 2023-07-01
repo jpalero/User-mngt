@@ -1,4 +1,4 @@
-# User-mngt System
+# User-mngt System using Node Js, Express, Rest API and HBS
 
 ## This is a User management sytem that show how to use CRUD operation. Using handlebars, Routes, MySQL and Express js etc. Please see the package.json file. It includes all the dependecies.
 
